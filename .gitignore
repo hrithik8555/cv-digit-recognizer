@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+ENV/
+*.ipynb_checkpoints/
+data/raw/*.csv
+data/processed/
+models/weights/
+*.pth
+*.pt
+
+.early.coverage
